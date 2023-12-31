@@ -6,5 +6,8 @@
   "license": "MIT",
   "devDependencies": {
     "parcel": "^2.10.3"
+  },
+  "scripts": {
+    "dev": "parcel public/index.html"
   }
 }
